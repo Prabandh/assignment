@@ -1,2 +1,10 @@
 first line
 2nd line
+<<<<<<< HEAD
+3rd line
+<<<<<<< HEAD
+4th line
+=======
+>>>>>>> parent of ae486c7... 3rd line
+=======
+>>>>>>> parent of 3449368... 4th line
